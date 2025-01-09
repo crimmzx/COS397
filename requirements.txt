@@ -1,0 +1,4 @@
+ToJyutping
+pycantonese
+huggingface_hub
+modelscope
